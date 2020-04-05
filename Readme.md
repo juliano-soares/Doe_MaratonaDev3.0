@@ -5,6 +5,7 @@
 <h2 align="center">
    <p>💉 Doe sangue! Doe vida! &#128159</p>
 </h2>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/johnendz/Firefox-Extension-Whatsapp-Dark">
 
@@ -39,11 +40,7 @@
 - [JAVASCRIPT](https://devdocs.io/javascript/)
 
 ## :computer: Projeto
-> Projeto feito durante a semana MaratonaDev da Rocketseat, com o intuito de práticar mais com um projeto simples.
-
-<p align="center">
-  <img alt="Prototipo" width="400" src="./Prototipos/Wallpapers/maratonadev.png">
-</p>
+> Projeto feito durante a semana MaratonaDev da Rocketseat, com o intuito de práticar mais com algo simples.
 
 ## :question: Como contribuir
 
