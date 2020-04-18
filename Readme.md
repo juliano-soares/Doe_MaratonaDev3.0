@@ -7,18 +7,7 @@
 </h2>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/johnendz/Firefox-Extension-Whatsapp-Dark">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnendz/Firefox-Extension-Whatsapp-Dark">
-  
-  <a href="https://github.com/johnendz/Firefox-Extension-Whatsapp-Dark/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnendz/Firefox-Extension-Whatsapp-Dark">
-  </a>
-
-  <a href="https://github.com/johnendz/Firefox-Extension-Whatsapp-Dark/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/johnendz/Firefox-Extension-Whatsapp-Dark">
-  </a>
-
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/juliano-soares/MaratonaDev3.0">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
